@@ -15,4 +15,4 @@ SD Card reader (dont need it find a kext)
 
 Sleepwake (99.99 fixed)
 powermanagement(CpuFriend by Default, ssdt available also)
-kexts for IntelCard not enabled find the guide and fix if you need it.
+kexts for IntelCard not enabled find the guide on openintelwireless and fix if you need it.
